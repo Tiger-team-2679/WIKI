@@ -1,6 +1,7 @@
 # Style Guide
 Code, git and publishing guidlines
 
+## Table of contents
 * [Repository Conventions](#repository-and-file-naming-convention)
     * [License](#license)
 * [Readme Style](#readme-style)
