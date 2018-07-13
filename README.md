@@ -15,12 +15,12 @@ Code, git and publishing guidelines
 # Code Guidelines
 ### Code Style
 Every language used should be using the proper code style guidelines:
-Java - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
-Kotlin - [Kotlin's Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html)
-Python - [PEP 8](https://www.python.org/dev/peps/pep-0008/?)
-HTML/CSS - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-C++ - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-JavaScript - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+* Java - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+* Kotlin - [Kotlin's Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html)
+* Python - [PEP 8](https://www.python.org/dev/peps/pep-0008/?)
+* HTML/CSS - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+* C++ - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+* JavaScript - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
 # Github Guidelines
 ### Repository and File Naming 
