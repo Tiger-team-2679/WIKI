@@ -2,7 +2,7 @@
 Code, git and publishing guidelines
 
 ## Table of contents
-* [Code Guidelines]
+* [Code Guidelines](#code-guidelines)
     * [Code Style](#code-style)
 * [Github Guidelines](#Github-Guidelines)
     * [Repository and File Naming](#repository-and-file-naming)
