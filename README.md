@@ -1,4 +1,4 @@
-# Style Guide
+# The Tiger Guide
 Code, git and publishing guidlines
 
 ## Table of contents
