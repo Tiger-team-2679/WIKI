@@ -7,7 +7,7 @@ Code, git and publishing guidelines
     * [The Module System](#the-module-system)
         * [Modules explained](#modules-explained)
         * [Developing a module](#developing-a-module)
-        * [Using a module](#Using-a-modules)
+        * [Using a module](#Using-a-module)
 * [Github Guidelines](#Github-Guidelines)
     * [Repository and File Naming](#repository-and-file-naming)
     * [License](#license)
@@ -33,7 +33,7 @@ When we are programming a robot, things can get messy very fast, especially when
 #### Developing a module
 each module has it's own repository, in order to make the module more maintainable. When we make a change and want to update the module, we will release a new version of the code to Github using [Github Releases](https://blog.github.com/2013-07-02-release-your-software/). 
 
-#### Using a modules
+#### Using a module
 In order to import and use our module, we will use [Jitpack](https://jitpack.io/). Using Jitpack we are able to fetch Github releases using maven and use them as dependencies in our [Gradle](#Gradle) project. Check the [Jitpack site](https://jitpack.io/) for more information.
 
 #### Modules List
