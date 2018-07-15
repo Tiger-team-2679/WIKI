@@ -7,7 +7,7 @@ Code, git and publishing guidelines
     * [The Module System](#the-module-system)
         * [Modules explained](#modules-explained)
         * [Developing a module](#developing-a-module)
-        * [Using a module](#using-a-module)
+        * [Using a module](#Using-a-modules)
 * [Github Guidelines](#Github-Guidelines)
     * [Repository and File Naming](#repository-and-file-naming)
     * [License](#license)
