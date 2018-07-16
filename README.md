@@ -14,8 +14,8 @@ Code, git and publishing guidelines
     * [Readme style](#readme-style)
 * [Build System Guildelines](#build-system-guidelines)
     * [gradle](#gradle)
-    	* [Gradle wrapper](#Gradle-wrapper)
-    	* [Gradle plugins](#Gradle-plugins)
+        * [Gradle wrapper](#Gradle-wrapper)
+        * [Gradle plugins](#Gradle-plugins)
 
 
 # Code Guidelines
@@ -63,8 +63,8 @@ If you don't know what Gradle is, go read about it right [here](https://docs.gra
 The Gradle project must contain the files necessary for building the program and must use the Gradle wrapper.
 
 ### Gradle wrapper
-Instead of downloading gradle to the computer we are working on, we can use the gradle wrapper. The gradle wrapper is a version of gradle that can be run only by using the gradle jar and excutables, That way we can use gradle on any computer with java installed.
+Instead of downloading Gradle to the computer we are working on, we can use the Gradle wrapper. The Gradle wrapper is a version of Gradle that can be run only by using the Gradle jar and executables, That way we can use Gradle on any computer with Java installed.
 
 ### Gradle plugins
-In order to expand the abillities of Gradle we will use Gradle plugins. For example, in order to deploy and compile our robot code easily, we will use the [GradleRio](https://github.com/wpilibsuite/GradleRIO) plugin. 
+In order to expand the abilities of Gradle, we will use Gradle plugins. For example, in order to deploy and compile our robot code easily, we will use the [GradleRio](https://github.com/wpilibsuite/GradleRIO) plugin. 
 
