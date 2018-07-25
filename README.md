@@ -42,7 +42,7 @@ In order to import and use our module, we will use [Jitpack](https://jitpack.io/
 * [Framework](https://github.com/Tiger-team-2679/FRC-Framework) - A module created for managing the robot's system and functionality.
 * [Logger](https://github.com/Tiger-team-2679/FRC-Logger) - A module created for logging robot and other modules' information.
 * [Web Dashboard](https://github.com/Tiger-team-2679/FRC-Web-Dashboard) - A custom dashboard created to enable custom data transference.
-* [Motion](https://github.com/Tiger-team-2679/FRC-Motion) - A module containing the autonomous algorithms, like PID and 
+* [Motion](https://github.com/Tiger-team-2679/FRC-Motion) - A module containing the autonomous algorithms, like PID and Trajectory Generation
 
 # Github Guidelines
 ### Repository and File Naming 
