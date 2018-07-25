@@ -21,14 +21,14 @@ Code, git, and publishing guidelines
 # Code Guidelines
 ### Code Style
 Every language used should be using the proper code style guidelines:
-| Language   | Guideline                                                    |
-| ---------- | ------------------------------------------------------------ |
-| Java       | [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) |
-| Kotlin     | [Kotlin's Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html) |
-| Python     | [PEP 8](https://www.python.org/dev/peps/pep-0008/?)          |
-| HTML/CSS   | [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) |
-| C++        | [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) |
-| JavaScript | [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) |
+|  Language  | Guide                           |
+|------------|---------------------------------|
+| Java       | [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)       |
+| Kotlin     | [Kotlin's Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html)     |
+| Python     | [PEP 8](https://www.python.org/dev/peps/pep-0008/?)                           |
+| HTML/CSS   | [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)   |
+| C++        | [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html)        |
+| JavaScript | [Google's JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) |
 ### The Module System
 #### Modules Explained
 When we program a robot, things can get messy pretty fast; especially when working a very big project. The larger a project's scope, the more difficult it becomes to debug and maintain. Thus, the modular system was created. By delegating each task to a different library, we can divide the project into modules in a clear, efficient way. Then, when we want to use our module, we can compile the corresponding libraries using [Gradle](#Gradle). 
