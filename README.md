@@ -21,13 +21,14 @@ Code, git, and publishing guidelines
 # Code Guidelines
 ### Code Style
 Every language used should be using the proper code style guidelines:
-* Java - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
-* Kotlin - [Kotlin's Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html)
-* Python - [PEP 8](https://www.python.org/dev/peps/pep-0008/?)
-* HTML/CSS - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-* C++ - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-* JavaScript - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
-
+| Language   | Guideline                                                                                    |
+|------------|----------------------------------------------------------------------------------------------|
+| Java       | [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)                |
+| Kotlin     | [Kotlin's Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html) |
+| Python     | [PEP 8](https://www.python.org/dev/peps/pep-0008/?)                                          |
+| HTML/CSS   | [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)         |
+| C++        | [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)                  |
+| JavaScript | [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)            |
 ### The Module System
 #### Modules Explained
 When we are programming a robot, things can get messy very fast, especially when are creating a very big project, It's harder to debug and maintain, Thus the module system was created. By creating libraries with different tasks, we can divide the project into modules with different tasks. Then when we want to use our module we can compile them using [Gradle](#Gradle). 
