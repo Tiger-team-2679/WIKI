@@ -31,7 +31,7 @@ Every language used should be using the proper code style guidelines:
 | JavaScript | [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) |
 ### The Module System
 #### Modules Explained
-When we are programming a robot, things can get messy very fast, especially when are creating a very big project, It's harder to debug and maintain, Thus the module system was created. By creating libraries with different tasks, we can divide the project into modules with different tasks. Then when we want to use our module we can compile them using [Gradle](#Gradle). 
+When we program a robot, things can get messy pretty fast; especially when working a very big project. The larger a project's scope, the more difficult it becomes to debug and maintain. Thus, the modular system was created. By delegating each task to a different library, we can divide the project into modules in a clear, efficient way. Then, when we want to use our module, we can compile the corresponding libraries using [Gradle](#Gradle). 
 
 #### Developing a module
 each module has it's own repository, in order to make the module more maintainable. When we make a change and want to update the module, we will release a new version of the code to Github using [Github Releases](https://blog.github.com/2013-07-02-release-your-software/). 
