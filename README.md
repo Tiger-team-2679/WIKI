@@ -21,8 +21,8 @@ Code, git, and publishing guidelines
 # Code Guidelines
 ### Code Style
 Every language used should be using the proper code style guidelines:
-| Language   | Guideline                              |
-| ---------- | ----------------------------- |
+| Language   | Guideline                                                    |
+| ---------- | ------------------------------------------------------------ |
 | Java       | [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) |
 | Kotlin     | [Kotlin's Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html) |
 | Python     | [PEP 8](https://www.python.org/dev/peps/pep-0008/?)          |
