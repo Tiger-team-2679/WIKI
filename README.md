@@ -21,6 +21,7 @@ Code, git, and publishing guidelines
 # Code Guidelines
 ### Code Style
 Every language used should be using the proper code style guidelines:
+
 | Language   | Guide                                                                                        |
 |------------|----------------------------------------------------------------------------------------------|
 | Java       | [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)              |
