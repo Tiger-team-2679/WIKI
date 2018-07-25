@@ -47,17 +47,17 @@ In order to import and use our module, we will use [Jitpack](https://jitpack.io/
 | [Web Dashboard](https://github.com/Tiger-team-2679/FRC-Web-Dashboard) | A custom dashboard created to facilitate custom data transference.                 |
 | [Motion](https://github.com/Tiger-team-2679/FRC-Motion)        | A module containing the autonomous algorithms, like PID and Trajectory Generation. |
 
-# Github Guidelines
+# GitHub Guidelines
 ### Repository and File Naming 
-Repository names should use higher-case with hyphens in place of spaces between words.
+Repository names should use higher-case with hyphens in place of spaces between words (also known as Kebab-Case).
 Programming language source files should use the style dictated by the style guide for that language.
 
 ### License 
-Every project should contain a license in a file called LICENSE containing the project's license (dah...).
-The license of the repository must be declared as well in the project's Readme file, attached with a link to the LICENSE file.
+Every project should contain a license in a file called LICENSE containing the project's license information.
+The license of the repository must be declared in the project's Readme file as well, with a link to the LICENSE file.
 
 ### Readme Style
-Every repository should contain a Readme file. Readme files should always contain a title declared with # as the repositories' name, with spaces instead of hyphens. also, every Readme should contain a table of contents, with linking to every part of the Readme.
+Every repository should contain a Readme file. Readme files should always contain a title (declared with #) as the repository's name, with spaces instead of hyphens. Also, every Readme should contain a table of contents linking to every part of the Readme file.
 
 # Build System Guidelines
 Every project, if necessary, should contain a proper Gradle configuration for building and testing.
