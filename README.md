@@ -1,5 +1,5 @@
 # The Tiger Guide
-Code, git, and publishing guidelines
+Code, git, and publishing guidelines.
 
 ## Table of contents
 * [Code Guidelines](#code-guidelines)
