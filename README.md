@@ -1,6 +1,9 @@
 # The Tiger Guide
 Code, git, and publishing guidelines.
 
+### PLEASE ENTER THE WIKI OF THE PROJECT!
+### THIS README IS OBSELETE
+
 ## Table of contents
 * [Code Guidelines](#code-guidelines)
     * [Code Style](#code-style)
