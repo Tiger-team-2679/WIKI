@@ -1,1 +1,18 @@
-### PLEASE ENTER THE WIKI OF THE PROJECT!
+# Welcome to the Tiger Team Wiki!!
+
+* [Home](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki)
+* [Environment setup](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/(Index)-Environment-setup)
+    * [Wpilib + FRC tools](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/(Setup)-Wpilib-and-FRC-tools)
+    * [Git](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/(Setup)-Git)
+    * [(Optional) IntelliJ IDEA](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/(Setup)-IntelliJ-IDEA) 
+    * [(Optional) Sourcetree](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/(Setup)-Sourcetree) 
+* [Guides](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/(Index)-Guides)
+    * [Sourcetree](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/(Guide)-Sourcetree)
+    * [Git](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/(Guide)-Git)
+    * [IntelliJ IDEA](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/(Guide)-IntelliJ-IDEA) 
+    * [Gradle](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/(Guide)-Gradle)
+        * [Gradlerio](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/(Guide)-Gradle)
+    * [Github](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/Environment-setup) 
+* [Guidelines](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/Environment-setup)
+    * [Git rules](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/Environment-setup) 
+    * [Github rules](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/Environment-setup) 
