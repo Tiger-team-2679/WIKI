@@ -12,7 +12,7 @@
     * [IntelliJ IDEA](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/(Guide)-IntelliJ-IDEA) 
     * [Gradle](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/(Guide)-Gradle)
         * [Gradlerio](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/(Guide)-Gradle)
-    * [Github](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/Environment-setup) 
+    * [Github](https://github.com/Tiger-team-2679/WIKI/wiki/(Guide)-Github) 
 * [Guidelines](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/Environment-setup)
     * [Git rules](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/Environment-setup) 
     * [Github rules](https://github.com/Tiger-team-2679/The-Tiger-Guide/wiki/Environment-setup) 
